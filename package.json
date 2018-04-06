@@ -1,0 +1,24 @@
+{
+  "name": "t1ll13",
+  "version": "1.0.0",
+  "description": "my super funky 3d printed robot head comes to life",
+  "main": "index.js",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "dotenv": "^5.0.1",
+    "fs": "0.0.1-security",
+    "google-tts-api": "0.0.1",
+    "node-record-lpcm16": "melnikaite/node-record-lpcm16",
+    "node-webcam": "^0.4.3",
+    "onoff": "^3.0.1",
+    "pigpio": "^0.7.0",
+    "request": "^2.76.0",
+    "watson-developer-cloud": "^2.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
